@@ -1,1 +1,1 @@
-print("A soma é:" + 1+1)
+print(5*10)
